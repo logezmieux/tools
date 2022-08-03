@@ -4,7 +4,7 @@ The original data come from a JotForm and was king of messy. So we automated the
 
 ## Setup
 
-Create en `.env` file including the following variables:
+Create an `.env` file including the following variables:
 
 ```env
 SUPABASE_URL=https://XXXXXX.supabase.co
